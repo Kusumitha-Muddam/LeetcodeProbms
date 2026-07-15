@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->

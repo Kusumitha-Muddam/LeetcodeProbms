@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

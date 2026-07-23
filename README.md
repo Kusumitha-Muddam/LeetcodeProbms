@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0162-find-peak-element) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Binary Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
+## Simulation
+|  |
+| ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->

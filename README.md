@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0397-integer-replacement) |
+| [1323-maximum-69-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1323-maximum-69-number) |
 ## Memoization
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1492-the-kth-factor-of-n) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2119-a-number-after-a-double-reversal) |

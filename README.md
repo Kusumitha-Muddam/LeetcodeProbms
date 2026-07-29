@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

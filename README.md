@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0162-find-peak-element) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0206-reverse-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
 |  |
 | ------- |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->

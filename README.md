@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
 | [0866-prime-palindrome](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0866-prime-palindrome) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry

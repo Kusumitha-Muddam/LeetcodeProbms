@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
+| [0593-valid-square](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
 | [0866-prime-palindrome](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0866-prime-palindrome) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
 ## Simulation
 |  |

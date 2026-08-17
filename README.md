@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

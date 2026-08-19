@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2582-pass-the-pillow](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2582-pass-the-pillow) |
 ## Number Theory
 |  |

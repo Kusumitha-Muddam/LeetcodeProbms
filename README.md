@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
+| [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

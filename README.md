@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0162-find-peak-element) |
 | [0463-island-perimeter](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0463-island-perimeter) |
+| [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
+| [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
+| [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Heap (Priority Queue)
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
 | [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Heap (Priority Queue)
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0463-island-perimeter) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
 ## Z Algorithm
 |  |

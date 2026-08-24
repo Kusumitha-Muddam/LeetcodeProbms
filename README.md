@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
+| [0205-isomorphic-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
 | [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
 | [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1015-smallest-integer-divisible-by-k) |

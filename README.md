@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
+| [0171-excel-sheet-column-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
+| [0171-excel-sheet-column-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0357-count-numbers-with-unique-digits) |

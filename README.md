@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0162-find-peak-element) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0463-island-perimeter) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |

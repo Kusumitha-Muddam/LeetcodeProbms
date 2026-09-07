@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0463-island-perimeter) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
 ## Z Algorithm
 |  |

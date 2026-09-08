@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3908-valid-digit-number) |
 ## Hash Table
 |  |

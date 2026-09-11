@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String Matching
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Heap (Priority Queue)
@@ -286,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0451-sort-characters-by-frequency) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->

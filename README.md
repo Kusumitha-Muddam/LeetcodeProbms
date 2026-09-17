@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2614-prime-in-diagonal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2614-prime-in-diagonal) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2582-pass-the-pillow) |
+| [2614-prime-in-diagonal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2614-prime-in-diagonal) |
 | [2843-count-symmetric-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2843-count-symmetric-integers) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3099-harshad-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3099-harshad-number) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1492-the-kth-factor-of-n) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2614-prime-in-diagonal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2614-prime-in-diagonal) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 ## Enumeration
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
+| [2614-prime-in-diagonal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2614-prime-in-diagonal) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 ## Z Algorithm
 |  |

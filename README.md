@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Tree
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

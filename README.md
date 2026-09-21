@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1539-kth-missing-positive-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1539-kth-missing-positive-number) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1539-kth-missing-positive-number) |
 ## Tree
 |  |
 | ------- |

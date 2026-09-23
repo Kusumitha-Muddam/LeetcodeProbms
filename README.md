@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2614-prime-in-diagonal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2614-prime-in-diagonal) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Tree
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0451-sort-characters-by-frequency) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 ## Combinatorics
 |  |

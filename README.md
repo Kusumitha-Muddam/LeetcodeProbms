@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1539-kth-missing-positive-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0451-sort-characters-by-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2578-split-with-minimum-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2578-split-with-minimum-sum) |
 ## Merge Sort
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0397-integer-replacement) |
 | [1323-maximum-69-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1323-maximum-69-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2578-split-with-minimum-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2578-split-with-minimum-sum) |
 ## Memoization
 |  |
@@ -350,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->

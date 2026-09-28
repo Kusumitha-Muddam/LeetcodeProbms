@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1323-maximum-69-number) |

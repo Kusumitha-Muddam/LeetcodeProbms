@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |
 | [3870-count-commas-in-range](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3908-valid-digit-number) |
 ## Hash Table
@@ -279,12 +280,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2614-prime-in-diagonal) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |
 ## Enumeration
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2843-count-symmetric-integers) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |
 ## Primality Test
 |  |
 | ------- |

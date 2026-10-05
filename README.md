@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1539-kth-missing-positive-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0397-integer-replacement) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |

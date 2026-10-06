@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |
 | [3870-count-commas-in-range](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3908-valid-digit-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Enumeration
 |  |
 | ------- |

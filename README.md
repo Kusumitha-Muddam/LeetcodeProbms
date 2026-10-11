@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0162-find-peak-element) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0409-longest-palindrome) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0463-island-perimeter) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |

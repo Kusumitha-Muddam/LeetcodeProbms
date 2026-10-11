@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0073-set-matrix-zeroes) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0148-sort-list) |
 | [0457-circular-array-loop](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0457-circular-array-loop) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0357-count-numbers-with-unique-digits) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 ## Breadth-First Search
 |  |

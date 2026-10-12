@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0457-circular-array-loop](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0463-island-perimeter) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0357-count-numbers-with-unique-digits) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1492-the-kth-factor-of-n) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2761-prime-pairs-with-target-sum) |
 | [2843-count-symmetric-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2843-count-symmetric-integers) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0866-prime-palindrome) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 ## Ternary Search
@@ -378,10 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 ## Interactive
 |  |

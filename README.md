@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0240-search-a-2d-matrix-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0043-multiply-strings) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0263-ugly-number) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |

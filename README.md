@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0457-circular-array-loop](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0728-self-dividing-numbers) |

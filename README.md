@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-special-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3152-special-array-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0397-integer-replacement) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |

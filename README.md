@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2761-prime-pairs-with-target-sum) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3152-special-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3152-special-array-ii) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2843-count-symmetric-integers) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3099-harshad-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3099-harshad-number) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2761-prime-pairs-with-target-sum) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |

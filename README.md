@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3152-special-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3152-special-array-ii) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Heap (Priority Queue)
 |  |

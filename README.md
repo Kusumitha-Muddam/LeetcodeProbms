@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
 | [0812-largest-triangle-area](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0409-longest-palindrome) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1323-maximum-69-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1323-maximum-69-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2578-split-with-minimum-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2578-split-with-minimum-sum) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0451-sort-characters-by-frequency) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |

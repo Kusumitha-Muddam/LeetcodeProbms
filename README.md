@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2614-prime-in-diagonal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2761-prime-pairs-with-target-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3152-special-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3152-special-array-ii) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -446,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0523-continuous-subarray-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

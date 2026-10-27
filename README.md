@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3099-harshad-number) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |

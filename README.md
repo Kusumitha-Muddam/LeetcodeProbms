@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2326-spiral-matrix-iv) |
 | [2582-pass-the-pillow](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2582-pass-the-pillow) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |

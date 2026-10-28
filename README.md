@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3903-smallest-stable-index-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0523-continuous-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3152-special-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3152-special-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3903-smallest-stable-index-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |

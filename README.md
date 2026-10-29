@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0459-repeated-substring-pattern) |
 | [0648-replace-words](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0648-replace-words) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1021-remove-outermost-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1021-remove-outermost-parentheses) |
 ## Geometry
 |  |
 | ------- |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

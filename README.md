@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |
 | [3870-count-commas-in-range](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3908-valid-digit-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Hash Table

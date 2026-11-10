@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3903-smallest-stable-index-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0397-integer-replacement) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3693-climbing-stairs-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
 | ------- |

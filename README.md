@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0397-integer-replacement) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1492-the-kth-factor-of-n) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0523-continuous-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3152-special-array-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3152-special-array-ii) |

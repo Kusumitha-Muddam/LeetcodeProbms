@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/2843-count-symmetric-integers) |
 | [3044-most-frequent-prime](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3044-most-frequent-prime) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3765-complete-prime-number](https://github.com/Kusumitha-Muddam/LeetcodeProbms/tree/master/3765-complete-prime-number) |
 ## Primality Test
 |  |
